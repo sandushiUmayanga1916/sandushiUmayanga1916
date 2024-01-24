@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sandushi Umayanga</h1>
 <h3 align="center">Undergraduate Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandushiumayanga1916&label=Profile%20views&color=0e75b6&style=flat" alt="sandushiumayanga1916" /> </p>
+<p align="left"> <img src="https://i.gifer.com/JXA0.mp4" alt="sandushiumayanga1916" /> </p>
 
 - 📫 How to reach me **sandushiumayanga1916@gmail.com**
 
