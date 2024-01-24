@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/JXA0.gif)](http://sandushiUmayanga1916.in)
+[![MasterHead]([https://i.gifer.com/JXA0.gif](https://i.gifer.com/JXA0.gif))](http://sandushiUmayanga1916.in)
 
 <h1 align="center">Hi 👋, I'm Sandushi Umayanga</h1>
 <h3 align="center">Undergraduate Student</h3>
