@@ -1,4 +1,9 @@
-[![MasterHead](https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif)](http://sandushiUmayanga1916.in)
+<div align="center">
+  <a href="http://sandushiUmayanga1916.in">
+    <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead">
+  </a>
+</div>
+
 
 <h1 align="center">🌟 Sandushi Umayanga | Tech Enthusiast 🚀</h1>
 
