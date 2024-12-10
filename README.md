@@ -67,12 +67,6 @@
 
 ## ☕ Support My Work
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sandushi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
