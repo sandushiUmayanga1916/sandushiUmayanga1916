@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">🌟 Sandushi Umayanga | Tech Enthusiast 🚀</h1>
+<h1 align="center">🌟 Sandushi Umayanga | Web Developer 🚀</h1>
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sandushiumayanga1916&color=brightgreen)
