@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/68038931/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif)](https://github.com/sandushiumayanga1916)
+[![Header][(https://user-images.githubusercontent.com/68038931/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgomycode.com%2Feg%2Fhow-to-become-a-software-developer%2F&psig=AOvVaw1GBFndHw8TqDzRk_ldUAs6&ust=1733913532404000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiW47WBnYoDFQAAAAAdAAAAABAJ)](https://github.com/sandushiumayanga1916)
 
 <h1 align="center">🌟 Sandushi Umayanga | Tech Enthusiast 🚀</h1>
 
